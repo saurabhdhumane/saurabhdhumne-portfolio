@@ -58,6 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 Thank you for visiting my portfolio! If you have any questions or suggestions, feel free to reach out.
 
-Saurabh Dhumane
-Saurabhdhumneraje@gmail.com
-[Your Portfolio URL]
+Saurabh Dhumane <br>
+Saurabhdhumneraje@gmail.com <br>
+https://saurabhdhumane.github.io/saurabhdhumne-portfolio/
